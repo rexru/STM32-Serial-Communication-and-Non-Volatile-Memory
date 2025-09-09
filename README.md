@@ -105,5 +105,3 @@ This project explores **I2C communication** and the use of **non-volatile memory
 
 ---
 
-## Example LCD Outputs
-**Idle Mode:**  
