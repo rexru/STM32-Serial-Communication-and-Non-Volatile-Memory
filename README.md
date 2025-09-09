@@ -1,7 +1,7 @@
 # STM32 Serial Communication and Non-Volatile Memory
 
 ## Overview
-This lab explores **I2C communication** and the use of **non-volatile memory** with the STM32F429ZI Discovery board. An external **24FC64F EEPROM** chip is interfaced via I2C to log button press timestamps provided by the MCU’s **real-time clock (RTC)**. The project also integrates **pushbutton input handling**, **LCD display output**, and a **finite state machine (FSM)** to manage system behavior.  
+This project explores **I2C communication** and the use of **non-volatile memory** with the STM32F429ZI Discovery board. An external **24FC64F EEPROM** chip is interfaced via I2C to log button press timestamps provided by the MCU’s **real-time clock (RTC)**. The project also integrates **pushbutton input handling**, **LCD display output**, and a **finite state machine (FSM)** to manage system behavior.  
 
 ---
 
